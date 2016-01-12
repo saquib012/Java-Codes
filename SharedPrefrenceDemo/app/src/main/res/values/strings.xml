@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPrefrenceDemo</string>\
+    <string name="secondActivity">ActivityB</string>
+    <string name="value">Hello Saquib</string>
+</resources>
